@@ -2,7 +2,7 @@
 - 👀 I’m interested in many things
 - 🌱 I’m currently learning many other things
 - 💞️ I’m looking to collaborate on many things
-- 📫 How to reach me [twitter.com/@paul64bit](twitter.com/@paul64bit)
+- 📫 How to reach me [http:twitter.com/@paul64bit](twitter.com/@paul64bit)
 
 <!---
 paul64bit/paul64bit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
